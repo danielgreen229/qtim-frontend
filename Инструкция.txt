@@ -1,0 +1,12 @@
+cd qtim
+npm i
+
+//build
+npm run build
+npm run start
+
+//dev
+npm run dev
+
+
+to http://localhost:3000/
